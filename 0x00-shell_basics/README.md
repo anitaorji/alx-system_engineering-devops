@@ -1,1 +1,1 @@
-my file
+This is a shell script
